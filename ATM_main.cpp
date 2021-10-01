@@ -74,7 +74,7 @@ int main()
                 }
                 break;
             case 2:
-                cout << "Enter deposit amount: " << deposit;
+                cout << "Enter deposit amount: ";
                 cin >> deposit;
                 available += deposit;
                 break;
